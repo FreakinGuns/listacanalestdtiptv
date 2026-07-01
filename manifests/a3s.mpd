@@ -1,0 +1,16 @@
+<MPD type="dynamic" minimumUpdatePeriod="PT2S" availabilityStartTime="2015-01-01T00:00:03" minBufferTime="PT2S" timeShiftBufferDepth="PT1H" maxSegmentDuration="PT8S" profiles="">
+    <BaseURL>https://a3m-a3s-vod-dash.atresmedia.com/live/nas_live/a3s/dash/</BaseURL>
+    <Period start="PT0S" id="1">
+        <AdaptationSet mimeType="audio/mp4" contentType="audio" lang="es">
+            <SegmentTemplate duration="192000" timescale="48000" media="a3s-$RepresentationID$-scale=48000-$Number$.m4s" initialization="a3s-$RepresentationID$-scale=48000-init.mp4"/>
+            <Representation id="mp4a_96000_spa=19" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2"/>
+        </AdaptationSet>
+        <AdaptationSet mimeType="video/mp4" contentType="video">
+            <SegmentTemplate duration="100" timescale="25" media="a3s-$RepresentationID$-scale=25-$Number$.m4s" initialization="a3s-$RepresentationID$-scale=25-init.mp4"/>
+            <Representation id="avc1_1000000=10" width="850" height="480" bandwidth="1000000" codecs="avc1.4d401f"/>
+            <Representation id="avc1_1500000=16" width="1024" height="576" bandwidth="1500000" codecs="avc1.64001f"/>
+            <Representation id="avc1_2000000=12" width="1280" height="720" bandwidth="2000000" codecs="avc1.640029"/>
+            <Representation id="avc1_4000000=13" width="1920" height="1080" bandwidth="4000000" codecs="avc1.640028"/>
+        </AdaptationSet>
+    </Period>
+</MPD>
