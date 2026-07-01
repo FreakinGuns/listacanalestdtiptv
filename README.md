@@ -6,11 +6,10 @@ Este repositorio contiene una lista de reproducción (playlist) en formato M3U c
 
 ## Playlist M3U
 
-Puedes usar la lista de reproducción directamente desde esta URL:
+Puedes usar la lista de reproducción directamente desde este repositorio:
 
 **URL de la playlist:**  
 [https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u](https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u)
-
 
 ## Canales incluidos
 
