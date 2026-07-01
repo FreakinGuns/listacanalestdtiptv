@@ -9,7 +9,7 @@ Este repositorio contiene una lista de reproducción (playlist) en formato M3U c
 Puedes usar la lista de reproducción directamente desde este repositorio:
 
 **URL de la playlist:**  
-[https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u](https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u)
+[https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/lista.m3u](https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/lista.m3u)
 
 ## Canales incluidos
 
