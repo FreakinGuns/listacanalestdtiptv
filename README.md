@@ -4,6 +4,14 @@
 
 Este repositorio contiene una lista de reproducción (playlist) en formato M3U con los principales canales de TDT (Televisión Digital Terrestre) de España. Todos los canales están disponibles en calidad Full HD 1080p.
 
+## Playlist M3U
+
+Puedes usar la lista de reproducción directamente desde esta URL:
+
+**URL de la playlist:**  
+[https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u](https://raw.githubusercontent.com/user/repo/refs/heads/main/lista.m3u)
+
+
 ## Canales incluidos
 
 | Canal | Grupo |
