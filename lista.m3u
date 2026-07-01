@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,La 1
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/la1.mpd
+#EXTINF:0,La 2
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/la2.mpd
+#EXTINF:0,Antena 3
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/a3.mpd
+#EXTINF:0,Cuatro
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/cuatro.mpd
+#EXTINF:0,Telecinco
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/t5.mpd
+#EXTINF:0,La Sexta
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/la6.mpd
+#EXTINF:0,Nova
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/nova.mpd
+#EXTINF:0,Neox
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/neox.mpd
+#EXTINF:0,Divinity
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/dvnty.mpd
+#EXTINF:0,FDF
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/fdf.mpd
+#EXTINF:0,Atreseries
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/a3s.mpd
+#EXTINF:0,MEGA
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/mega.mpd
+#EXTINF:0,Energy
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/energy.mpd
+#EXTINF:0,Clan
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/clan.mpd
+#EXTINF:0,Teledeporte
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/tdp.mpd
+#EXTINF:0,24h
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/24h.mpd
+#EXTINF:0,Be Mad
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/bmad.mpd
+#EXTINF:0,Boing
+https://raw.githubusercontent.com/FreakinGuns/listacanalestdtiptv/refs/heads/main/manifests/boing.mpd
