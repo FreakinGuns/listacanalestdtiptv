@@ -1,5 +1,5 @@
 <MPD type="dynamic" minimumUpdatePeriod="PT2S" availabilityStartTime="2015-01-01T00:00:03" minBufferTime="PT2S" timeShiftBufferDepth="PT1H" maxSegmentDuration="PT8S" profiles="">
-    <BaseURL>https://rtve-tdp-vod-dash-secure.rtve.es/live/nas_live/tdp/dash/</BaseURL>
+    <BaseURL>https://rtve-tdp-live-dash-secure.edge.cdn.quortex.io/live/nas_live/tdp/dash/</BaseURL>
     <Period start="PT0S" id="1">
         <AdaptationSet mimeType="audio/mp4" contentType="audio" lang="es">
             <SegmentTemplate duration="192000" timescale="48000" media="tdp-$RepresentationID$-scale=48000-$Number$.m4s" initialization="tdp-$RepresentationID$-scale=48000-init.mp4"/>
