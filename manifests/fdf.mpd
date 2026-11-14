@@ -1,5 +1,4 @@
-<MPD type="dynamic" minimumUpdatePeriod="PT2S" availabilityStartTime="2015-01-01T00:00:03Z" minBufferTime="PT2S" timeShiftBufferDepth="PT1H" maxSegmentDuration="PT8S" profiles="">
-    <BaseURL>https://mdst-fdf-vod-dash-secure.akamaized.net/live/nas_live/fdf/dash/</BaseURL>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" type="dynamic" minimumUpdatePeriod="PT2S" availabilityStartTime="2015-01-01T00:00:03Z" minBufferTime="PT2S" timeShiftBufferDepth="PT1H" maxSegmentDuration="PT8S" profiles="">    <BaseURL>https://mdst-fdf-vod-dash-secure.akamaized.net/live/nas_live/fdf/dash/</BaseURL>
     <Period start="PT0S" id="1">
         <AdaptationSet mimeType="audio/mp4" contentType="audio" lang="es">
             <SegmentTemplate duration="192000" timescale="48000" media="fdf-$RepresentationID$-scale=48000-$Number$.m4s" initialization="fdf-$RepresentationID$-scale=48000-init.mp4"/>
