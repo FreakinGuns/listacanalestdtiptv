@@ -11,9 +11,9 @@
         </AdaptationSet>
         <AdaptationSet mimeType="video/mp4" contentType="video">
             <SegmentTemplate duration="100" timescale="25" media="boing-$RepresentationID$-scale=25-$Number$.m4s" initialization="boing-$RepresentationID$-scale=25-init.mp4"/>
-            <Representation id="avc1_700000=14" width="640" height="360" bandwidth="700000" codecs="avc1.4d401f"/>
-            <Representation id="avc1_1000000=10" width="850" height="480" bandwidth="1000000" codecs="avc1.64001f"/>
-            <Representation id="avc1_1500000=15" width="1024" height="576" bandwidth="1500000" codecs="avc1.640029"/>
+            <Representation id="avc1_700000=20" width="640" height="360" bandwidth="700000" codecs="avc1.4d401f"/>
+            <Representation id="avc1_1000000=19" width="850" height="480" bandwidth="1000000" codecs="avc1.64001f"/>
+            <Representation id="avc1_1500000=18" width="1024" height="576" bandwidth="1500000" codecs="avc1.640029"/>
         </AdaptationSet>
     </Period>
 </MPD>
